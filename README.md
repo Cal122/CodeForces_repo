@@ -1,1 +1,1 @@
-File names ending in "_u" signify that the problem is unsolved as of current time.
+File names with the prefix "U_" signify that the problem is unsolved as of current time.
